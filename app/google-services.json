@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "684004185511",
+    "firebase_url": "https://thanhhuyapp.firebaseio.com",
+    "project_id": "thanhhuyapp",
+    "storage_bucket": "thanhhuyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684004185511:android:e59fe7f11aab0390181282",
+        "android_client_info": {
+          "package_name": "com.example.thanhhuyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684004185511-4cgpmlvthkjshjjoek010asbbp9s89jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZMVjyF0TGKNX1GbJOrH8S-5RpOYyJHlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684004185511-4cgpmlvthkjshjjoek010asbbp9s89jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
